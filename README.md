@@ -2,6 +2,9 @@
 
 This repository contains a machine learning project focused on predicting multiple diseases using various classification algorithms.
 
+
+![111](https://github.com/Vishal-74/Multiple-Disease-pred/assets/115347234/e386bf8b-7f8f-4cb2-a3bc-8122783cd9f8)
+
 ## Overview:
 
 The project aims to develop a multi-disease prediction system capable of forecasting various health conditions including diabetes, heart disease, chronic kidney disease, and cancer.
